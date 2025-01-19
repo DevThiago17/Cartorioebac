@@ -151,6 +151,7 @@ int main()
 			
 			case 4:
 			sair();
+			return 0;
 			break;
 			
 			default:
